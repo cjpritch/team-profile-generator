@@ -4,7 +4,7 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Technologies Used](#technologies)
+- [Technologies](#technologies)
 - [Demo](#demo)
 
 
@@ -17,7 +17,7 @@ A command-line application used to generate a html page, to store employee infor
 
 To get started, clone this repository and navigate into it's root folder. Then run `npm install` to install any dependencies, `npm test` to run the test suite, and `npm start` to start the inquirer prompts. Once complete, a new index.html file will be generated in the "dist" folder of the application and can then be viewed in your browser. 
 
-### Technologies Used
+### Technologies
 
 - Javascript
 - Node
