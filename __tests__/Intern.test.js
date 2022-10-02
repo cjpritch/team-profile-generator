@@ -1,5 +1,4 @@
-const {Intern} = require('../lib/Intern')
-
+const { Intern } = require('../lib/Intern');
 
 test("Creates Intern object", () => {
     const intern = new Intern();

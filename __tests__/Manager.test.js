@@ -1,5 +1,4 @@
-const {Manager} = require('../lib/Manager')
-
+const { Manager } = require('../lib/Manager');
 
 test("Creates employee object", () => {
     const manager = new Manager();

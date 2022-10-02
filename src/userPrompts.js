@@ -194,11 +194,10 @@ const promptIntern = data => {
         },
         {
             type: 'input',
-            name: 'Email',
-            message: "What is the intern's email address?",
-            default: () => {},
-            validate: function (internEmail) {  
-                valid = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(internEmail)        
+            name: 'email',
+            message: "What is the intern's email address?",           
+            validate: function (email) {  
+                valid = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)        
                 if (valid) {                  
                     return true;
                 } else {
