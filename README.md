@@ -4,7 +4,7 @@
 
 - [Description](#description)
 - [Installation](#installation)
-- [Technologies Used](#technologiesused)
+- [Technologies Used](#technologies)
 - [Demo](#demo)
 
 
